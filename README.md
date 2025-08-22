@@ -24,7 +24,7 @@ The workflow classifies incoming emails, fetches relevant knowledge base informa
 
 ## 🛠 Workflow Diagram
 
-![Workflow Screenshot](./workflow/workflow-screenshot.png)
+![Workflow Screenshot](./Screenshot.png)
 
 ---
 
