@@ -97,4 +97,13 @@ Sign off every response as:
 
 # output 
 - Output only the body content of the email
+
 - 
+## 📂 Files in Repo
+
+- [Workflow JSON](./2.Custom%20Support%20wrokflow.json) → Exported n8n workflow file.  
+- [Output.pdf](./Output.pdf) → Sample output file showing how the workflow responds.  
+- [Screenshot.png](./Screenshot.png) → Visual diagram of the workflow.  
+- [README.md](./README.md) → Documentation of this repository.  
+
+
