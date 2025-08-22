@@ -1,12 +1,4 @@
 # 2.-Customer-Support-Automated-Email-Workflow-
-> ⚠️ Note: This project uses the dummy company name **Tech Heaven Solutions** for demonstration purposes.  
-> You can replace it with your own organization name when deploying this workflow.
-# 📩 Customer Support [ Automated Email Workflow ]
-
-This repository contains an **n8n workflow** that automates customer email handling for **Tech Heaven Solutions**.  
-The workflow classifies incoming emails, fetches relevant knowledge base information, and sends friendly automated replies.  
-
-# 📩 Customer Support [ Automated Email Workflow ]
 
 This repository contains an **n8n workflow** that automates customer email handling for **Tech Heaven Solutions**.  
 The workflow classifies incoming emails, fetches relevant knowledge base information, and sends friendly automated replies.  
